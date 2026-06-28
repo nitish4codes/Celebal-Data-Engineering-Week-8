@@ -1,0 +1,521 @@
+product_id,product_name,category,subcategory,cost_price
+PROD_1,Blender 1,Home,Blender,323.41
+PROD_2,Jeans 2,Clothing,Jeans,470.08
+PROD_3,Fiction 3,Books,Fiction,153.3
+PROD_4,Fiction 4,Books,Fiction,27.74
+PROD_5,Chair 5,Home,Chair,499.54
+PROD_6,Blender 6,Home,Blender,352.43
+PROD_7,Smartphone 7,Electronics,Smartphone,464.08
+PROD_8,Smartphone 8,Electronics,Smartphone,120.05
+PROD_9,Jeans 9,Clothing,Jeans,129.86
+PROD_10,Sci-Fi 10,Books,Sci-Fi,314.98
+PROD_11,  Laptop 11  ,Electronics,Laptop,475.47
+PROD_12,Laptop 12,Electronics,Laptop,424.95
+PROD_13,Smartphone 13,Electronics,Smartphone,310.59
+PROD_14,Laptop 14,Electronics,Laptop,31.29
+PROD_15,Smartphone 15,Electronics,Smartphone,114.89
+PROD_16,  Smartphone 16  ,Electronics,Smartphone,282.82
+PROD_17,Fiction 17,Books,Fiction,461.41
+PROD_18,Biography 18,Books,Biography,377.47
+PROD_19,T-Shirt 19,Clothing,T-Shirt,392.14
+PROD_20,Jeans 20,Clothing,Jeans,19.92
+PROD_21,Laptop 21,Electronics,Laptop,179.79
+PROD_22,Laptop 22,Electronics,Laptop,37.91
+PROD_23,Sci-Fi 23,Books,Sci-Fi,44.69
+PROD_24,Blender 24,Home,Blender,131.38
+PROD_25,Smartphone 25,Electronics,Smartphone,115.39
+PROD_26,Jeans 26,Clothing,Jeans,349.8
+PROD_27,Smartphone 27,Electronics,Smartphone,447.82
+PROD_28,Chair 28,Home,Chair,447.22
+PROD_29,Chair 29,Home,Chair,357.41
+PROD_30,Chair 30,Home,Chair,346.77
+PROD_31,Sci-Fi 31,Books,Sci-Fi,458.91
+PROD_32,Jeans 32,Clothing,Jeans,245.72
+PROD_33,Laptop 33,Electronics,Laptop,56.34
+PROD_34,Laptop 34,Electronics,Laptop,159.91
+PROD_35,Blender 35,Home,Blender,116.42
+PROD_36,Sci-Fi 36,Books,Sci-Fi,491.85
+PROD_37,Blender 37,Home,Blender,41.37
+PROD_38,  Lamp 38  ,Home,Lamp,418.41
+PROD_39,Biography 39,Books,Biography,127.78
+PROD_40,Blender 40,Home,Blender,476.87
+PROD_41,Chair 41,Home,Chair,320.58
+PROD_42,Chair 42,Home,Chair,417.29
+PROD_43,  Headphones 43  ,Electronics,Headphones,261.24
+PROD_44,Fiction 44,Books,Fiction,206.03
+PROD_45,  Headphones 45  ,Electronics,Headphones,71.94
+PROD_46,  Smartphone 46  ,Electronics,Smartphone,195.26
+PROD_47,Biography 47,Books,Biography,190.63
+PROD_48,Headphones 48,Electronics,Headphones,390.2
+PROD_49,Lamp 49,Home,Lamp,344.04
+PROD_50,Lamp 50,Home,Lamp,149.79
+PROD_51,Laptop 51,Electronics,Laptop,61.63
+PROD_52,Fiction 52,Books,Fiction,451.49
+PROD_53,Laptop 53,Electronics,Laptop,401.39
+PROD_54,Fiction 54,Books,Fiction,363.6
+PROD_55,Sci-Fi 55,Books,Sci-Fi,66.57
+PROD_56,Blender 56,Home,Blender,357.34
+PROD_57,Sci-Fi 57,Books,Sci-Fi,421.78
+PROD_58,Sci-Fi 58,Books,Sci-Fi,387.27
+PROD_59,Chair 59,Home,Chair,403.22
+PROD_60,Jeans 60,Clothing,Jeans,373.39
+PROD_61,Headphones 61,Electronics,Headphones,24.76
+PROD_62,Smartphone 62,Electronics,Smartphone,164.96
+PROD_63,Chair 63,Home,Chair,246.81
+PROD_64,Biography 64,Books,Biography,367.93
+PROD_65,Sci-Fi 65,Books,Sci-Fi,56.03
+PROD_66,Laptop 66,Electronics,Laptop,378.54
+PROD_67,Sci-Fi 67,Books,Sci-Fi,204.93
+PROD_68,Jacket 68,Clothing,Jacket,210.12
+PROD_69,Fiction 69,Books,Fiction,494.07
+PROD_70,Lamp 70,Home,Lamp,137.66
+PROD_71,Lamp 71,Home,Lamp,499.11
+PROD_72,Fiction 72,Books,Fiction,281.82
+PROD_73,Biography 73,Books,Biography,458.03
+PROD_74,Sci-Fi 74,Books,Sci-Fi,118.52
+PROD_75,Jacket 75,Clothing,Jacket,438.92
+PROD_76,Lamp 76,Home,Lamp,43.68
+PROD_77,Biography 77,Books,Biography,321.84
+PROD_78,Headphones 78,Electronics,Headphones,220.54
+PROD_79,  Chair 79  ,Home,Chair,472.4
+PROD_80,Lamp 80,Home,Lamp,252.31
+PROD_81,Biography 81,Books,Biography,142.16
+PROD_82,Laptop 82,Electronics,Laptop,271.32
+PROD_83,Fiction 83,Books,Fiction,322.33
+PROD_84,Jeans 84,Clothing,Jeans,28.59
+PROD_85,Chair 85,Home,Chair,253.81
+PROD_86,Smartphone 86,Electronics,Smartphone,165.36
+PROD_87,Headphones 87,Electronics,Headphones,309.37
+PROD_88,Sci-Fi 88,Books,Sci-Fi,187.0
+PROD_89,Biography 89,Books,Biography,169.33
+PROD_90,Jacket 90,Clothing,Jacket,329.62
+PROD_91,Biography 91,Books,Biography,125.24
+PROD_92,  Headphones 92  ,Electronics,Headphones,281.41
+PROD_93,Fiction 93,Books,Fiction,266.38
+PROD_94,Jeans 94,Clothing,Jeans,96.44
+PROD_95,Sci-Fi 95,Books,Sci-Fi,428.94
+PROD_96,  Laptop 96  ,Electronics,Laptop,163.98
+PROD_97,Biography 97,Books,Biography,353.23
+PROD_98,Biography 98,Books,Biography,173.54
+PROD_99,Smartphone 99,Electronics,Smartphone,63.63
+PROD_100,Fiction 100,Books,Fiction,85.31
+PROD_101,Biography 101,Books,Biography,456.3
+PROD_102,Biography 102,Books,Biography,373.32
+PROD_103,Chair 103,Home,Chair,289.15
+PROD_104,Jeans 104,Clothing,Jeans,341.92
+PROD_105,T-Shirt 105,Clothing,T-Shirt,372.76
+PROD_106,Biography 106,Books,Biography,246.77
+PROD_107,T-Shirt 107,Clothing,T-Shirt,139.0
+PROD_108,Sci-Fi 108,Books,Sci-Fi,332.26
+PROD_109,  Smartphone 109  ,Electronics,Smartphone,376.35
+PROD_110,Blender 110,Home,Blender,181.99
+PROD_111,Fiction 111,Books,Fiction,425.87
+PROD_112,Headphones 112,Electronics,Headphones,90.39
+PROD_113,Smartphone 113,Electronics,Smartphone,254.87
+PROD_114,Smartphone 114,Electronics,Smartphone,391.66
+PROD_115,Headphones 115,Electronics,Headphones,487.35
+PROD_116,T-Shirt 116,Clothing,T-Shirt,17.52
+PROD_117,Smartphone 117,Electronics,Smartphone,71.06
+PROD_118,Sci-Fi 118,Books,Sci-Fi,125.91
+PROD_119,Jeans 119,Clothing,Jeans,214.54
+PROD_120,Sci-Fi 120,Books,Sci-Fi,112.84
+PROD_121,Laptop 121,Electronics,Laptop,250.21
+PROD_122,Lamp 122,Home,Lamp,216.84
+PROD_123,T-Shirt 123,Clothing,T-Shirt,23.36
+PROD_124,Lamp 124,Home,Lamp,196.92
+PROD_125,Fiction 125,Books,Fiction,231.28
+PROD_126,Biography 126,Books,Biography,380.83
+PROD_127,  Headphones 127  ,Electronics,Headphones,499.65
+PROD_128,Biography 128,Books,Biography,299.09
+PROD_129,T-Shirt 129,Clothing,T-Shirt,387.83
+PROD_130,  Biography 130  ,Books,Biography,167.73
+PROD_131,Jeans 131,Clothing,Jeans,308.32
+PROD_132,Blender 132,Home,Blender,151.15
+PROD_133,  Fiction 133  ,Books,Fiction,319.09
+PROD_134,Jacket 134,Clothing,Jacket,428.15
+PROD_135,Chair 135,Home,Chair,242.23
+PROD_136,  Smartphone 136  ,Electronics,Smartphone,89.82
+PROD_137,  Blender 137  ,Home,Blender,321.58
+PROD_138,  Laptop 138  ,Electronics,Laptop,219.33
+PROD_139,Headphones 139,Electronics,Headphones,77.87
+PROD_140,Smartphone 140,Electronics,Smartphone,19.87
+PROD_141,  T-Shirt 141  ,Clothing,T-Shirt,260.81
+PROD_142,Biography 142,Books,Biography,54.1
+PROD_143,Biography 143,Books,Biography,229.25
+PROD_144,T-Shirt 144,Clothing,T-Shirt,273.71
+PROD_145,Jacket 145,Clothing,Jacket,170.31
+PROD_146,Chair 146,Home,Chair,419.47
+PROD_147,Headphones 147,Electronics,Headphones,461.51
+PROD_148,Sci-Fi 148,Books,Sci-Fi,140.94
+PROD_149,Blender 149,Home,Blender,69.07
+PROD_150,Smartphone 150,Electronics,Smartphone,93.31
+PROD_151,Fiction 151,Books,Fiction,239.75
+PROD_152,Biography 152,Books,Biography,305.15
+PROD_153,Smartphone 153,Electronics,Smartphone,255.55
+PROD_154,Biography 154,Books,Biography,14.89
+PROD_155,Jacket 155,Clothing,Jacket,485.29
+PROD_156,  Smartphone 156  ,Electronics,Smartphone,46.88
+PROD_157,Chair 157,Home,Chair,284.45
+PROD_158,Fiction 158,Books,Fiction,307.61
+PROD_159,Laptop 159,Electronics,Laptop,250.61
+PROD_160,Smartphone 160,Electronics,Smartphone,140.86
+PROD_161,Fiction 161,Books,Fiction,292.02
+PROD_162,Smartphone 162,Electronics,Smartphone,25.92
+PROD_163,Jacket 163,Clothing,Jacket,435.76
+PROD_164,Fiction 164,Books,Fiction,455.18
+PROD_165,Smartphone 165,Electronics,Smartphone,285.49
+PROD_166,Headphones 166,Electronics,Headphones,298.29
+PROD_167,Jacket 167,Clothing,Jacket,234.89
+PROD_168,Jeans 168,Clothing,Jeans,222.17
+PROD_169,Fiction 169,Books,Fiction,293.47
+PROD_170,  Fiction 170  ,Books,Fiction,332.4
+PROD_171,T-Shirt 171,Clothing,T-Shirt,425.63
+PROD_172,Jeans 172,Clothing,Jeans,180.82
+PROD_173,  Headphones 173  ,Electronics,Headphones,23.73
+PROD_174,Blender 174,Home,Blender,251.3
+PROD_175,Smartphone 175,Electronics,Smartphone,9.13
+PROD_176,Biography 176,Books,Biography,351.82
+PROD_177,  Jacket 177  ,Clothing,Jacket,234.29
+PROD_178,Fiction 178,Books,Fiction,73.17
+PROD_179,  Sci-Fi 179  ,Books,Sci-Fi,348.86
+PROD_180,Jacket 180,Clothing,Jacket,327.36
+PROD_181,Sci-Fi 181,Books,Sci-Fi,280.96
+PROD_182,Blender 182,Home,Blender,307.44
+PROD_183,Jacket 183,Clothing,Jacket,149.96
+PROD_184,Jacket 184,Clothing,Jacket,332.67
+PROD_185,Chair 185,Home,Chair,11.27
+PROD_186,Biography 186,Books,Biography,425.96
+PROD_187,Biography 187,Books,Biography,65.18
+PROD_188,  T-Shirt 188  ,Clothing,T-Shirt,129.84
+PROD_189,  Smartphone 189  ,Electronics,Smartphone,323.77
+PROD_190,Blender 190,Home,Blender,354.15
+PROD_191,Chair 191,Home,Chair,287.93
+PROD_192,Lamp 192,Home,Lamp,307.63
+PROD_193,Headphones 193,Electronics,Headphones,474.07
+PROD_194,Lamp 194,Home,Lamp,47.65
+PROD_195,Smartphone 195,Electronics,Smartphone,150.86
+PROD_196,Jeans 196,Clothing,Jeans,235.99
+PROD_197,T-Shirt 197,Clothing,T-Shirt,229.04
+PROD_198,Jacket 198,Clothing,Jacket,456.6
+PROD_199,Headphones 199,Electronics,Headphones,354.12
+PROD_200,  Laptop 200  ,Electronics,Laptop,281.77
+PROD_201,Chair 201,Home,Chair,256.08
+PROD_202,Fiction 202,Books,Fiction,267.9
+PROD_203,T-Shirt 203,Clothing,T-Shirt,263.4
+PROD_204,Fiction 204,Books,Fiction,205.96
+PROD_205,  Laptop 205  ,Electronics,Laptop,238.86
+PROD_206,Biography 206,Books,Biography,137.58
+PROD_207,Fiction 207,Books,Fiction,45.64
+PROD_208,Smartphone 208,Electronics,Smartphone,283.02
+PROD_209,Smartphone 209,Electronics,Smartphone,401.16
+PROD_210,Jeans 210,Clothing,Jeans,313.87
+PROD_211,T-Shirt 211,Clothing,T-Shirt,457.7
+PROD_212,Smartphone 212,Electronics,Smartphone,419.31
+PROD_213,T-Shirt 213,Clothing,T-Shirt,112.38
+PROD_214,Biography 214,Books,Biography,124.12
+PROD_215,Headphones 215,Electronics,Headphones,377.48
+PROD_216,  Headphones 216  ,Electronics,Headphones,152.68
+PROD_217,Jacket 217,Clothing,Jacket,193.66
+PROD_218,Chair 218,Home,Chair,468.61
+PROD_219,Lamp 219,Home,Lamp,275.13
+PROD_220,Laptop 220,Electronics,Laptop,280.39
+PROD_221,Chair 221,Home,Chair,255.7
+PROD_222,Fiction 222,Books,Fiction,380.43
+PROD_223,Blender 223,Home,Blender,360.11
+PROD_224,Lamp 224,Home,Lamp,18.89
+PROD_225,Fiction 225,Books,Fiction,283.61
+PROD_226,Headphones 226,Electronics,Headphones,196.97
+PROD_227,Headphones 227,Electronics,Headphones,334.31
+PROD_228,Smartphone 228,Electronics,Smartphone,425.35
+PROD_229,Jacket 229,Clothing,Jacket,46.14
+PROD_230,Biography 230,Books,Biography,176.17
+PROD_231,  Headphones 231  ,Electronics,Headphones,375.99
+PROD_232,Headphones 232,Electronics,Headphones,386.33
+PROD_233,T-Shirt 233,Clothing,T-Shirt,270.67
+PROD_234,Blender 234,Home,Blender,218.91
+PROD_235,Blender 235,Home,Blender,408.13
+PROD_236,Sci-Fi 236,Books,Sci-Fi,17.04
+PROD_237,  Jacket 237  ,Clothing,Jacket,163.94
+PROD_238,  T-Shirt 238  ,Clothing,T-Shirt,388.04
+PROD_239,Fiction 239,Books,Fiction,475.31
+PROD_240,Laptop 240,Electronics,Laptop,9.34
+PROD_241,Sci-Fi 241,Books,Sci-Fi,456.75
+PROD_242,  Chair 242  ,Home,Chair,242.84
+PROD_243,Fiction 243,Books,Fiction,434.82
+PROD_244,Jeans 244,Clothing,Jeans,365.04
+PROD_245,Sci-Fi 245,Books,Sci-Fi,360.74
+PROD_246,Sci-Fi 246,Books,Sci-Fi,21.87
+PROD_247,T-Shirt 247,Clothing,T-Shirt,337.76
+PROD_248,Sci-Fi 248,Books,Sci-Fi,168.93
+PROD_249,Headphones 249,Electronics,Headphones,307.42
+PROD_250,Fiction 250,Books,Fiction,32.2
+PROD_251,Blender 251,Home,Blender,257.84
+PROD_252,Chair 252,Home,Chair,377.65
+PROD_253,Blender 253,Home,Blender,126.13
+PROD_254,Smartphone 254,Electronics,Smartphone,99.52
+PROD_255,Jeans 255,Clothing,Jeans,315.99
+PROD_256,  T-Shirt 256  ,Clothing,T-Shirt,111.77
+PROD_257,Smartphone 257,Electronics,Smartphone,341.85
+PROD_258,Jacket 258,Clothing,Jacket,59.75
+PROD_259,Jeans 259,Clothing,Jeans,120.43
+PROD_260,Biography 260,Books,Biography,76.6
+PROD_261,Biography 261,Books,Biography,221.28
+PROD_262,Smartphone 262,Electronics,Smartphone,367.88
+PROD_263,Jacket 263,Clothing,Jacket,391.87
+PROD_264,Lamp 264,Home,Lamp,213.38
+PROD_265,Smartphone 265,Electronics,Smartphone,5.57
+PROD_266,Biography 266,Books,Biography,430.63
+PROD_267,Lamp 267,Home,Lamp,241.26
+PROD_268,Fiction 268,Books,Fiction,112.55
+PROD_269,Chair 269,Home,Chair,165.35
+PROD_270,  Lamp 270  ,Home,Lamp,98.74
+PROD_271,  Smartphone 271  ,Electronics,Smartphone,492.52
+PROD_272,Blender 272,Home,Blender,142.86
+PROD_273,Biography 273,Books,Biography,374.19
+PROD_274,Jeans 274,Clothing,Jeans,285.54
+PROD_275,  T-Shirt 275  ,Clothing,T-Shirt,365.8
+PROD_276,Laptop 276,Electronics,Laptop,52.07
+PROD_277,Sci-Fi 277,Books,Sci-Fi,49.49
+PROD_278,Jeans 278,Clothing,Jeans,90.9
+PROD_279,  Jeans 279  ,Clothing,Jeans,446.89
+PROD_280,Biography 280,Books,Biography,475.77
+PROD_281,Headphones 281,Electronics,Headphones,178.78
+PROD_282,Smartphone 282,Electronics,Smartphone,336.06
+PROD_283,Jeans 283,Clothing,Jeans,32.81
+PROD_284,T-Shirt 284,Clothing,T-Shirt,462.9
+PROD_285,Sci-Fi 285,Books,Sci-Fi,247.02
+PROD_286,Jeans 286,Clothing,Jeans,270.97
+PROD_287,Biography 287,Books,Biography,458.21
+PROD_288,Smartphone 288,Electronics,Smartphone,184.03
+PROD_289,  T-Shirt 289  ,Clothing,T-Shirt,195.27
+PROD_290,Smartphone 290,Electronics,Smartphone,244.05
+PROD_291,  Smartphone 291  ,Electronics,Smartphone,125.58
+PROD_292,T-Shirt 292,Clothing,T-Shirt,386.35
+PROD_293,Blender 293,Home,Blender,147.24
+PROD_294,Jacket 294,Clothing,Jacket,441.11
+PROD_295,Chair 295,Home,Chair,471.72
+PROD_296,Laptop 296,Electronics,Laptop,257.34
+PROD_297,Biography 297,Books,Biography,48.04
+PROD_298,  Jacket 298  ,Clothing,Jacket,209.88
+PROD_299,Laptop 299,Electronics,Laptop,149.16
+PROD_300,  Headphones 300  ,Electronics,Headphones,284.33
+PROD_301,Lamp 301,Home,Lamp,344.84
+PROD_302,Jacket 302,Clothing,Jacket,91.91
+PROD_303,T-Shirt 303,Clothing,T-Shirt,266.95
+PROD_304,T-Shirt 304,Clothing,T-Shirt,440.56
+PROD_305,Biography 305,Books,Biography,332.35
+PROD_306,Lamp 306,Home,Lamp,169.41
+PROD_307,Blender 307,Home,Blender,237.96
+PROD_308,Biography 308,Books,Biography,238.44
+PROD_309,Chair 309,Home,Chair,92.98
+PROD_310,Jacket 310,Clothing,Jacket,141.66
+PROD_311,Jeans 311,Clothing,Jeans,387.05
+PROD_312,Smartphone 312,Electronics,Smartphone,12.83
+PROD_313,Biography 313,Books,Biography,447.21
+PROD_314,Chair 314,Home,Chair,154.93
+PROD_315,Biography 315,Books,Biography,31.81
+PROD_316,Sci-Fi 316,Books,Sci-Fi,175.35
+PROD_317,Jacket 317,Clothing,Jacket,433.48
+PROD_318,Lamp 318,Home,Lamp,238.62
+PROD_319,Laptop 319,Electronics,Laptop,333.14
+PROD_320,Jacket 320,Clothing,Jacket,33.72
+PROD_321,Chair 321,Home,Chair,323.89
+PROD_322,Jeans 322,Clothing,Jeans,412.96
+PROD_323,  Smartphone 323  ,Electronics,Smartphone,375.17
+PROD_324,Laptop 324,Electronics,Laptop,386.6
+PROD_325,Headphones 325,Electronics,Headphones,291.42
+PROD_326,Chair 326,Home,Chair,306.19
+PROD_327,Smartphone 327,Electronics,Smartphone,401.47
+PROD_328,Sci-Fi 328,Books,Sci-Fi,222.09
+PROD_329,Fiction 329,Books,Fiction,452.59
+PROD_330,T-Shirt 330,Clothing,T-Shirt,239.19
+PROD_331,Headphones 331,Electronics,Headphones,424.07
+PROD_332,Blender 332,Home,Blender,167.84
+PROD_333,Jacket 333,Clothing,Jacket,390.07
+PROD_334,Smartphone 334,Electronics,Smartphone,383.33
+PROD_335,Blender 335,Home,Blender,87.72
+PROD_336,Jeans 336,Clothing,Jeans,416.99
+PROD_337,Jacket 337,Clothing,Jacket,371.24
+PROD_338,Smartphone 338,Electronics,Smartphone,94.1
+PROD_339,Chair 339,Home,Chair,360.46
+PROD_340,T-Shirt 340,Clothing,T-Shirt,128.06
+PROD_341,Jeans 341,Clothing,Jeans,352.79
+PROD_342,Chair 342,Home,Chair,66.33
+PROD_343,Jeans 343,Clothing,Jeans,158.09
+PROD_344,Smartphone 344,Electronics,Smartphone,310.59
+PROD_345,Chair 345,Home,Chair,45.41
+PROD_346,  Biography 346  ,Books,Biography,177.66
+PROD_347,Blender 347,Home,Blender,244.03
+PROD_348,Laptop 348,Electronics,Laptop,426.32
+PROD_349,Fiction 349,Books,Fiction,215.9
+PROD_350,Biography 350,Books,Biography,455.07
+PROD_351,Headphones 351,Electronics,Headphones,248.57
+PROD_352,Chair 352,Home,Chair,201.03
+PROD_353,Jeans 353,Clothing,Jeans,465.92
+PROD_354,Biography 354,Books,Biography,190.92
+PROD_355,Jeans 355,Clothing,Jeans,92.44
+PROD_356,Smartphone 356,Electronics,Smartphone,80.27
+PROD_357,  Sci-Fi 357  ,Books,Sci-Fi,283.61
+PROD_358,  Laptop 358  ,Electronics,Laptop,355.76
+PROD_359,Biography 359,Books,Biography,308.08
+PROD_360,Jeans 360,Clothing,Jeans,412.03
+PROD_361,Blender 361,Home,Blender,374.78
+PROD_362,Smartphone 362,Electronics,Smartphone,365.06
+PROD_363,Sci-Fi 363,Books,Sci-Fi,494.37
+PROD_364,Biography 364,Books,Biography,19.31
+PROD_365,Sci-Fi 365,Books,Sci-Fi,358.25
+PROD_366,  Blender 366  ,Home,Blender,94.13
+PROD_367,  Chair 367  ,Home,Chair,464.74
+PROD_368,Smartphone 368,Electronics,Smartphone,412.7
+PROD_369,Headphones 369,Electronics,Headphones,162.62
+PROD_370,Biography 370,Books,Biography,437.73
+PROD_371,T-Shirt 371,Clothing,T-Shirt,129.06
+PROD_372,Blender 372,Home,Blender,487.68
+PROD_373,Jacket 373,Clothing,Jacket,248.58
+PROD_374,  Chair 374  ,Home,Chair,258.82
+PROD_375,Laptop 375,Electronics,Laptop,271.14
+PROD_376,Smartphone 376,Electronics,Smartphone,111.2
+PROD_377,Jeans 377,Clothing,Jeans,336.61
+PROD_378,Biography 378,Books,Biography,470.86
+PROD_379,Sci-Fi 379,Books,Sci-Fi,36.58
+PROD_380,Smartphone 380,Electronics,Smartphone,201.23
+PROD_381,Fiction 381,Books,Fiction,117.26
+PROD_382,T-Shirt 382,Clothing,T-Shirt,381.81
+PROD_383,Jeans 383,Clothing,Jeans,103.25
+PROD_384,  Headphones 384  ,Electronics,Headphones,85.32
+PROD_385,Jacket 385,Clothing,Jacket,237.42
+PROD_386,Lamp 386,Home,Lamp,118.24
+PROD_387,  Biography 387  ,Books,Biography,292.47
+PROD_388,  T-Shirt 388  ,Clothing,T-Shirt,153.67
+PROD_389,Smartphone 389,Electronics,Smartphone,78.82
+PROD_390,Fiction 390,Books,Fiction,148.97
+PROD_391,Chair 391,Home,Chair,158.14
+PROD_392,Smartphone 392,Electronics,Smartphone,201.08
+PROD_393,Fiction 393,Books,Fiction,117.96
+PROD_394,Fiction 394,Books,Fiction,74.2
+PROD_395,T-Shirt 395,Clothing,T-Shirt,442.08
+PROD_396,Blender 396,Home,Blender,22.08
+PROD_397,Biography 397,Books,Biography,70.32
+PROD_398,Jacket 398,Clothing,Jacket,34.19
+PROD_399,Blender 399,Home,Blender,70.25
+PROD_400,Biography 400,Books,Biography,95.88
+PROD_401,Headphones 401,Electronics,Headphones,431.23
+PROD_402,Jeans 402,Clothing,Jeans,443.12
+PROD_403,  Jacket 403  ,Clothing,Jacket,470.1
+PROD_404,Chair 404,Home,Chair,148.48
+PROD_405,  Jeans 405  ,Clothing,Jeans,119.02
+PROD_406,  T-Shirt 406  ,Clothing,T-Shirt,155.4
+PROD_407,Fiction 407,Books,Fiction,339.04
+PROD_408,Lamp 408,Home,Lamp,496.1
+PROD_409,Chair 409,Home,Chair,224.49
+PROD_410,Headphones 410,Electronics,Headphones,95.35
+PROD_411,Sci-Fi 411,Books,Sci-Fi,391.96
+PROD_412,Fiction 412,Books,Fiction,297.12
+PROD_413,Lamp 413,Home,Lamp,164.66
+PROD_414,Chair 414,Home,Chair,396.55
+PROD_415,  Jacket 415  ,Clothing,Jacket,97.51
+PROD_416,Blender 416,Home,Blender,42.8
+PROD_417,Laptop 417,Electronics,Laptop,411.48
+PROD_418,Lamp 418,Home,Lamp,170.64
+PROD_419,Biography 419,Books,Biography,488.97
+PROD_420,Headphones 420,Electronics,Headphones,290.94
+PROD_421,Fiction 421,Books,Fiction,337.86
+PROD_422,Biography 422,Books,Biography,371.06
+PROD_423,Laptop 423,Electronics,Laptop,441.3
+PROD_424,  Headphones 424  ,Electronics,Headphones,17.66
+PROD_425,Lamp 425,Home,Lamp,83.84
+PROD_426,Laptop 426,Electronics,Laptop,131.93
+PROD_427,Smartphone 427,Electronics,Smartphone,167.87
+PROD_428,Fiction 428,Books,Fiction,238.08
+PROD_429,Biography 429,Books,Biography,76.07
+PROD_430,Laptop 430,Electronics,Laptop,212.62
+PROD_431,Jacket 431,Clothing,Jacket,91.83
+PROD_432,Fiction 432,Books,Fiction,155.67
+PROD_433,Chair 433,Home,Chair,364.2
+PROD_434,Smartphone 434,Electronics,Smartphone,278.2
+PROD_435,Biography 435,Books,Biography,196.72
+PROD_436,Laptop 436,Electronics,Laptop,385.75
+PROD_437,  Fiction 437  ,Books,Fiction,214.86
+PROD_438,Sci-Fi 438,Books,Sci-Fi,250.78
+PROD_439,Lamp 439,Home,Lamp,225.59
+PROD_440,Sci-Fi 440,Books,Sci-Fi,440.26
+PROD_441,  Jeans 441  ,Clothing,Jeans,213.36
+PROD_442,Biography 442,Books,Biography,156.06
+PROD_443,Sci-Fi 443,Books,Sci-Fi,207.27
+PROD_444,Chair 444,Home,Chair,370.64
+PROD_445,Jeans 445,Clothing,Jeans,281.03
+PROD_446,Fiction 446,Books,Fiction,372.78
+PROD_447,Jacket 447,Clothing,Jacket,121.96
+PROD_448,Fiction 448,Books,Fiction,60.06
+PROD_449,Sci-Fi 449,Books,Sci-Fi,375.5
+PROD_450,Smartphone 450,Electronics,Smartphone,7.91
+PROD_451,Biography 451,Books,Biography,254.22
+PROD_452,T-Shirt 452,Clothing,T-Shirt,38.55
+PROD_453,Lamp 453,Home,Lamp,21.95
+PROD_454,Fiction 454,Books,Fiction,128.76
+PROD_455,  Jacket 455  ,Clothing,Jacket,446.73
+PROD_456,  T-Shirt 456  ,Clothing,T-Shirt,188.05
+PROD_457,Sci-Fi 457,Books,Sci-Fi,317.76
+PROD_458,Jeans 458,Clothing,Jeans,313.71
+PROD_459,Fiction 459,Books,Fiction,98.49
+PROD_460,Smartphone 460,Electronics,Smartphone,10.16
+PROD_461,Blender 461,Home,Blender,397.4
+PROD_462,Blender 462,Home,Blender,127.18
+PROD_463,Chair 463,Home,Chair,264.46
+PROD_464,Lamp 464,Home,Lamp,16.48
+PROD_465,Chair 465,Home,Chair,461.23
+PROD_466,Headphones 466,Electronics,Headphones,237.25
+PROD_467,  Lamp 467  ,Home,Lamp,92.6
+PROD_468,Jacket 468,Clothing,Jacket,94.93
+PROD_469,  Jeans 469  ,Clothing,Jeans,252.77
+PROD_470,  Biography 470  ,Books,Biography,134.64
+PROD_471,Laptop 471,Electronics,Laptop,5.15
+PROD_472,Biography 472,Books,Biography,78.73
+PROD_473,Smartphone 473,Electronics,Smartphone,59.3
+PROD_474,Smartphone 474,Electronics,Smartphone,318.54
+PROD_475,Headphones 475,Electronics,Headphones,102.7
+PROD_476,Lamp 476,Home,Lamp,186.14
+PROD_477,Sci-Fi 477,Books,Sci-Fi,74.9
+PROD_478,Chair 478,Home,Chair,423.69
+PROD_479,Sci-Fi 479,Books,Sci-Fi,411.91
+PROD_480,Blender 480,Home,Blender,454.24
+PROD_481,  Smartphone 481  ,Electronics,Smartphone,458.48
+PROD_482,Blender 482,Home,Blender,120.54
+PROD_483,Jacket 483,Clothing,Jacket,85.29
+PROD_484,Blender 484,Home,Blender,78.8
+PROD_485,  T-Shirt 485  ,Clothing,T-Shirt,286.41
+PROD_486,Smartphone 486,Electronics,Smartphone,198.1
+PROD_487,Lamp 487,Home,Lamp,143.56
+PROD_488,Sci-Fi 488,Books,Sci-Fi,258.52
+PROD_489,Smartphone 489,Electronics,Smartphone,265.82
+PROD_490,Sci-Fi 490,Books,Sci-Fi,326.35
+PROD_491,Sci-Fi 491,Books,Sci-Fi,295.31
+PROD_492,Fiction 492,Books,Fiction,120.95
+PROD_493,Lamp 493,Home,Lamp,467.44
+PROD_494,Jeans 494,Clothing,Jeans,386.48
+PROD_495,Lamp 495,Home,Lamp,485.04
+PROD_496,Jacket 496,Clothing,Jacket,321.45
+PROD_497,Laptop 497,Electronics,Laptop,286.16
+PROD_498,Jeans 498,Clothing,Jeans,497.14
+PROD_499,Smartphone 499,Electronics,Smartphone,32.74
+PROD_500,Headphones 500,Electronics,Headphones,196.76
+PROD_501,Laptop 501,Electronics,Laptop,395.13
+PROD_502,Jacket 502,Clothing,Jacket,118.91
+PROD_503,Lamp 503,Home,Lamp,264.86
+PROD_504,Blender 504,Home,Blender,499.55
+PROD_505,  Chair 505  ,Home,Chair,272.79
+PROD_506,Chair 506,Home,Chair,459.06
+PROD_507,Jeans 507,Clothing,Jeans,278.43
+PROD_508,  Sci-Fi 508  ,Books,Sci-Fi,266.97
+PROD_509,Sci-Fi 509,Books,Sci-Fi,403.05
+PROD_510,Smartphone 510,Electronics,Smartphone,466.01
+PROD_511,Smartphone 511,Electronics,Smartphone,34.42
+PROD_512,Blender 512,Home,Blender,281.5
+PROD_513,T-Shirt 513,Clothing,T-Shirt,340.41
+PROD_514,  Biography 514  ,Books,Biography,369.05
+PROD_515,Fiction 515,Books,Fiction,287.66
+PROD_516,Fiction 516,Books,Fiction,380.06
+PROD_517,Jacket 517,Clothing,Jacket,235.49
+PROD_518,  Chair 518  ,Home,Chair,427.09
+PROD_519,Smartphone 519,Electronics,Smartphone,181.24
+PROD_520,Chair 520,Home,Chair,216.39
