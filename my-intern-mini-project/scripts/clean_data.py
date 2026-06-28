@@ -24,7 +24,7 @@ def clean_orders(df):
 
 # 2. clean_products()
 def clean_products(df):
-    df['product_name'] = df['product_name'].str.strip().str.title() #
+    df['product_name'] = df['product_name'].str.strip().str.title() 
     issue_log.append("Products: Whitespace trimmed and names altered to Title Case.")
     return df
 
@@ -54,6 +54,6 @@ df_products.to_csv("cleaned_products.csv", index=False)
 df_items.to_csv("cleaned_order_items.csv", index=False)
 df_customers.to_csv("cleaned_customers.csv", index=False)
 
-print("\n--- PIPELINE DATA CLEANING REPORT ---")
+print("\nPIPELINE DATA CLEANING REPORT :")
 for issue in issue_log:
     print("- " + issue)
