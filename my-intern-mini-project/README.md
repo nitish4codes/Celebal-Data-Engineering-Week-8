@@ -6,6 +6,7 @@ An end-to-end data engineering pipeline that automates the generation, cleaning,
 ---
 
 ## Repository Architecture
+```
 Celebal-Data-Engineering-Week-8/
 │
 ├── .gitignore                   # Excludes data files, binary caches, and databases
@@ -24,7 +25,7 @@ Celebal-Data-Engineering-Week-8/
     │
     ├── pipeline_demo.ipynb      # Step-by-step interactive visual notebook
     └── README.md                # Project documentation and execution guide
-
+```
 
 
 ## Data Pipeline Lifecycle
