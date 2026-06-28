@@ -1,0 +1,4 @@
+*.db
+__pycache__/
+.ipynb_checkpoints/
+my-intern-mini-project/*.csv
